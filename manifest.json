@@ -1,0 +1,10 @@
+{
+    "name": "Brennereimanager",
+    "short_name": "Brennerei",
+    "start_url": "Brennereimanager.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#336699",
+    "description": "App zur Unterstützung von Abfindungsbrennern",
+    "icons": []
+}
